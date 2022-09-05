@@ -1,2 +1,5 @@
 #!/bin/bash
 cat /etc/passwd /etc/hosts
+[master 12c558c] What about 2?
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ mode change 100644 => 100755 0x02-shell_redirections/3-twofiles
